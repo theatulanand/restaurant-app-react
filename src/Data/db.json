@@ -1,0 +1,323 @@
+[
+    {
+        "id" : 1,
+        "name" : "Mission Chinese Food",
+        "costForTwo" : 500,
+        "categories" : "Fine Dining",
+        "votes" : 500,
+        "rating" : {
+            "number" : 5,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : false,
+            "upi" : true
+        }
+
+    },{
+        "id" : 2,
+        "name" : "Sujata Family Restaurant",
+        "costForTwo" : 700,
+        "categories" : "Family Cuisine",
+        "votes" : 400,
+        "rating" : {
+            "number" : 5,
+            "star" : "⭐⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 3,
+        "name" : "Katz's Delicatessen",
+        "costForTwo" : 1500,
+        "categories" : "Fine Dining",
+        "votes" : 800,
+        "rating" : {
+            "number" : 4,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : false,
+            "upi" : true
+        }
+
+    },{
+        "id" : 4,
+        "name" : "Vikas Chinese Food",
+        "costForTwo" : 300,
+        "categories" : "Street Food",
+        "votes" : 1500,
+        "rating" : {
+            "number" : 5,
+            "star" : "⭐⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 5,
+        "name" : "Classic Restaurant",
+        "costForTwo" : 500,
+        "categories" : "Family Cuisine",
+        "votes" : 300,
+        "rating" : {
+            "number" : 3,
+            "star" : "⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : false
+        }
+
+    },{
+        "id" : 6,
+        "name" : "Jayaka Dhaba",
+        "costForTwo" : 550,
+        "categories" : "Dhaba",
+        "votes" : 900,
+        "rating" : {
+            "number" : 3,
+            "star" : "⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 7,
+        "name" : "Food Plaza",
+        "costForTwo" : 300,
+        "categories" : "Fine Dine",
+        "votes" : 200,
+        "rating" : {
+            "number" : 2,
+            "star" : "⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : false,
+            "upi" : true
+        }
+
+    },{
+        "id" : 8,
+        "name" : "Nirvana Fine Dine",
+        "costForTwo" : 1500,
+        "categories" : "Fine Dining",
+        "votes" : 1100,
+        "rating" : {
+            "number" : 5,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 9,
+        "name" : "Rajan Dhaba",
+        "costForTwo" : 300,
+        "categories" : "Dhaba",
+        "votes" : 2500,
+        "rating" : {
+            "number" : 5,
+            "star" : "⭐⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 10,
+        "name" : "Amit Chinese Restaurant",
+        "costForTwo" : 1200,
+        "categories" : "Street Food",
+        "votes" : 1500,
+        "rating" : {
+            "number" : 4,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 11,
+        "name" : "CookBook Cafe",
+        "costForTwo" : 500,
+        "categories" : "Cafe",
+        "votes" : 700,
+        "rating" : {
+            "number" : 3,
+            "star" : "⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : false,
+            "upi" : true
+        }
+
+    },{
+        "id" : 12,
+        "name" : "The Spice Hut",
+        "costForTwo" : 600,
+        "categories" : "Fine Dining",
+        "votes" : 710,
+        "rating" : {
+            "number" : 3,
+            "star" : "⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 13,
+        "name" : "Champaran Meat House",
+        "costForTwo" : 2000,
+        "categories" : "Fine Dining",
+        "votes" : 2500,
+        "rating" : {
+            "number" : 4,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 14,
+        "name" : "Dadan Handi Mutton",
+        "costForTwo" : 1500,
+        "categories" : "Dhaba",
+        "votes" : 2500,
+        "rating" : {
+            "number" : 5,
+            "star" : "⭐⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 15,
+        "name" : "Rock & Roll",
+        "costForTwo" : 400,
+        "categories" : "Street Food",
+        "votes" : 1200,
+        "rating" : {
+            "number" : 4,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 16,
+        "name" : "Mahesh Burger",
+        "costForTwo" : 100,
+        "categories" : "Street Food",
+        "votes" : 3500,
+        "rating" : {
+            "number" : 4,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : false
+        }
+
+    },{
+        "id" : 17,
+        "name" : "Magadhi Fine Dine",
+        "costForTwo" : 3500,
+        "categories" : "Fine Dining",
+        "votes" : 500,
+        "rating" : {
+            "number" : 3,
+            "star" : "⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 18,
+        "name" : "Suresh Golgappa",
+        "costForTwo" : 500,
+        "categories" : "Street Food",
+        "votes" : 500,
+        "rating" : {
+            "number" : 4,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : false,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 19,
+        "name" : "Delight Soda Cafe",
+        "costForTwo" : 100,
+        "categories" : "Soft Drinks",
+        "votes" : 2353,
+        "rating" : {
+            "number" : 4,
+            "star" : "⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : true,
+            "upi" : true
+        }
+
+    },{
+        "id" : 20,
+        "name" : "Royal Foodies",
+        "costForTwo" : 450,
+        "categories" : "Street Food",
+        "votes" : 392,
+        "rating" : {
+            "number" : 5,
+            "star" : "⭐⭐⭐⭐⭐"
+        },
+        "payment" : {
+            "card" : true,
+            "cash" : true,
+            "upi" : true
+        }
+
+    }
+]
